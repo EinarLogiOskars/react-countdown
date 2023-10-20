@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-countdown/static/css/main.de60c0ec.css",
-    "main.js": "/react-countdown/static/js/main.08128b08.js",
+    "main.js": "/react-countdown/static/js/main.c27ad256.js",
     "static/js/787.40413005.chunk.js": "/react-countdown/static/js/787.40413005.chunk.js",
     "index.html": "/react-countdown/index.html",
     "main.de60c0ec.css.map": "/react-countdown/static/css/main.de60c0ec.css.map",
-    "main.08128b08.js.map": "/react-countdown/static/js/main.08128b08.js.map",
+    "main.c27ad256.js.map": "/react-countdown/static/js/main.c27ad256.js.map",
     "787.40413005.chunk.js.map": "/react-countdown/static/js/787.40413005.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de60c0ec.css",
-    "static/js/main.08128b08.js"
+    "static/js/main.c27ad256.js"
   ]
 }
